@@ -1,3 +1,12 @@
+'''
+By Mike Zinyoni
+
+25 November 2021
+
++263713122648
+mzinyoni7@outlook.com
+looking for a job ASAP
+'''
 from db import Book
 import os
 from pprint import pprint
