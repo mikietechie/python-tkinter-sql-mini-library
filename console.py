@@ -23,7 +23,6 @@ def get_validated_input(q, _type="str", min_len=1, max_len=111):
         print(f"!!!invalid datatype, we need integer!!!")
         return get_validated_input(q, _type, min_len, max_len)
     return int(input_val) if _type == "int" else input_val
-        
 
 print("*** Welcome to Mini Library ***\n\n\n")
 
